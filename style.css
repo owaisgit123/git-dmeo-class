@@ -1,3 +1,6 @@
 body{
     background-color: aqua;
+    text-align: center;
+    border: 4px slid black;
+    padding: 100px;
 }
